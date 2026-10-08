@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    color: burlywood;
+}
+
+img {
+    width: 150px;
+    border-radius: 180px;
+}
+
+h1{
+    color: cyan;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul {
+    color: cyan;
+    font-family: 'Times New Roman', Times, serif;
+}
